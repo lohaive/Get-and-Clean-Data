@@ -1,0 +1,206 @@
+There are 68 variables in this dataset.
+
+[1] "subject" 
+The subject who performed the activity for each window sample. Its range is from 1 to 30.
+
+[2] "activity"
+The activity name.There are six kinds of activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
+[3] "timeBodyAccMean-X"
+Mean value of the time domain body acceleration signals-axial X
+
+[4] "timeBodyAccMean-Y"
+Mean value of the time domain body acceleration signals-axial Y
+
+[5] "timeBodyAccMean-Z" 
+Mean value of the time domain body acceleration signals-axial Z
+
+[6] "timeBodyAccStd-X" 
+Standard deviation of the time domain body acceleration signals-axial X
+
+[7] "timeBodyAccStd-Y" 
+Standard deviation of the time domain body acceleration signals-axial Y
+
+[8] "timeBodyAccStd-Z" 
+Standard deviation of the time domain body acceleration signals-axial Z
+
+[9] "timeGravityAccMean-X"  
+Mean value of the time domain gravity acceleration signals-axial X
+
+[10] "timeGravityAccMean-Y" 
+Mean value of the time domain gravity acceleration signals-axial Y
+
+[11] "timeGravityAccMean-Z" 
+Mean value of the time domain gravity acceleration signals-axial Z
+
+[12] "timeGravityAccStd-X" 
+Standard deviation of the time domain gravity acceleration signals-axial X
+
+[13] "timeGravityAccStd-Y" 
+Standard deviation of the time domain gravity acceleration signals-axial Y
+
+[14] "timeGravityAccStd-Z" 
+Standard deviation of the time domain gravity acceleration signals-axial Z
+
+[15] "timeBodyAccJerkMean-X" 
+Mean value of the body linear acceleration Jerk signals derived in time-axial X
+
+[16] "timeBodyAccJerkMean-Y" 
+Mean value of the body linear acceleration Jerk signals derived in time-axial Y
+
+[17] "timeBodyAccJerkMean-Z"  
+Mean value of the body linear acceleration Jerk signals derived in time-axial Z
+
+[18] "timeBodyAccJerkStd-X " 
+Standard deviation of the body linear acceleration Jerk signals derived in time-axial X
+
+[19] "timeBodyAccJerkStd-Y" 
+Standard deviation of the body linear acceleration Jerk signals derived in time-axial Y
+
+[20] "timeBodyAccJerkStd-Z " 
+Standard deviation of the body linear acceleration Jerk signals derived in time-axial Z
+
+[21] "timeBodyGyroMean-X"
+Mean value of the time domain body gravity signals-axial X
+
+[22] "timeBodyGyroMean-Y"
+Mean value of the time domain body gravity signals-axial Y
+
+[23] "timeBodyGyroMean-Z" 
+Mean value of the time domain body gravity signals-axial Z
+
+[24] "timeBodyGyroStd-X"
+Standard deviation of the time domain body gravity signals-axial X
+
+[25] "timeBodyGyroStd-Y"
+Standard deviation of the time domain body gravity signals-axial Y
+
+[26] "timeBodyGyroStd-Z" 
+Standard deviation of the time domain body gravity signals-axial Z
+
+[27] "timeBodyGyroJerkMean-X" 
+Mean value of the body angular velocity acceleration Jerk signals derived in time-axial X
+
+[28] "timeBodyGyroJerkMean-Y" 
+Mean value of the body angular velocity acceleration Jerk signals derived in time-axial Y
+
+[29] "timeBodyGyroJerkMean-Z" 
+Mean value of the body angular velocity acceleration Jerk signals derived in time-axial Z
+
+[30] "timeBodyGyroJerkStd-X"   
+Standard deviation of the body angular velocity acceleration Jerk signals derived in time-axial X
+
+[31] "timeBodyGyroJerkStd-Y" 
+Standard deviation of the body angular velocity acceleration Jerk signals derived in time-axial Y
+
+[32] "timeBodyGyroJerkStd-Z" 
+Standard deviation of the body angular velocity acceleration Jerk signals derived in time-axial Z       
+
+[33] "timeBodyAccMagMean" 
+Mean value of the magnitude of these three-dimensional time domain body linear acceleration signals
+
+[34] "timeBodyAccMagStd" 
+Standard deviation of the magnitude of these three-dimensional time domain body linearacceleration signals
+
+[35] "timeGravityAccMagMean" 
+Mean value of the magnitude of these three-dimensional time domain body gravity acceleration signals
+
+[36] "timeGravityAccMagStd" 
+Standard deviation of the magnitude of these three-dimensional time domain body gravity acceleration signals
+
+[37] "timeBodyAccJerkMagMean" 
+Mean value of the magnitude of these three-dimensional body linear acceleration Jerk signals derived in time
+
+[38] "timeBodyAccJerkMagStd" 
+Standard deviation of the magnitude of these three-dimensional body linear acceleration Jerk signals derived in time
+
+[39] "timeBodyGyroMagMean" 
+Mean value of the magnitude of these three-dimensional body angular velocity signals derived in time
+
+[40] "timeBodyGyroMagStd" 
+Standard deviation of the magnitude of these three-dimensional body angular velocity signals derived in time
+
+[41] "timeBodyGyroJerkMagMean" 
+Mean value of the magnitude of these three-dimensional body angular velocity Jerk signals derived in time
+
+[42] "timeBodyGyroJerkMagStd" 
+Standard deviation of the magnitude of these three-dimensional body angular velocity Jerk signals derived in time
+
+[43] "frequencyBodyAccMean-X"
+Mean value of the frequency domain body acceleration signals-axial X
+
+[44] "frequencyBodyAccMean-Y"
+Mean value of the frequency domain body acceleration signals-axial Y
+
+[45] "frequencyBodyAccMean-Z" 
+Mean value of the frequency domain body acceleration signals-axial Z
+
+[46] "frequencyBodyAccStd-X" 
+Standard deviation of the frequency domain body acceleration signals-axial X
+
+[47] "frequencyBodyAccStd-Y" 
+Standard deviation of the frequency domain body acceleration signals-axial Y
+
+[48] "frequencyBodyAccStd-Z" 
+Standard deviation of the frequency domain body acceleration signals-axial Z
+
+[49] "frequencyBodyAccJerkMean-X" 
+Mean value of the body linear acceleration Jerk signals derived in frequency-axial X
+
+[50] "frequencyBodyAccJerkMean-Y" 
+Mean value of the body linear acceleration Jerk signals derived in frequency-axial Y
+
+[51] "frequencyBodyAccJerkMean-Z"  
+Mean value of the body linear acceleration Jerk signals derived in frequency-axial Z
+
+[52] "frequencyBodyAccJerkStd-X " 
+Standard deviation of the body linear acceleration Jerk signals derived in frequency-axial X
+
+[53] "frequencyBodyAccJerkStd-Y" 
+Standard deviation of the body linear acceleration Jerk signals derived in frequency-axial Y
+
+[54] "frequencyBodyAccJerkStd-Z " 
+Standard deviation of the body linear acceleration Jerk signals derived infrequency-axial Z
+
+[55] "frequencyBodyGyroMean-X"
+Mean value of the frequency domain body gravity signals-axial X
+
+[56] "frequencyBodyGyroMean-Y"
+Mean value of the frequency domain body gravity signals-axial Y
+
+[57] "frequencyBodyGyroMean-Z" 
+Mean value of the frequency domain body gravity signals-axial Z
+
+[58] "frequencyBodyGyroStd-X"
+Standard deviation of the frequency domain body gravity signals-axial X
+
+[59] "frequencyBodyGyroStd-Y"
+Standard deviation of the frequency domain body gravity signals-axial Y
+
+[60] "frequencyBodyGyroStd-Z" 
+Standard deviation of the frequency domain body gravity signals-axial Z
+
+[61] "frequencyBodyAccMagMean" 
+Mean value of the magnitude of these three-dimensional frequency domain body linear acceleration signals
+
+[62] "frequencyBodyAccMagStd" 
+Standard deviation of the magnitude of these three-dimensional frequency domain body linearacceleration signals
+
+[63] "frequencyGravityAccMagMean" 
+Mean value of the magnitude of these three-dimensional frequency domain body gravity acceleration signals
+
+[64] "frequencyGravityAccMagStd" 
+Standard deviation of the magnitude of these three-dimensional frequency domain body gravity acceleration signals
+
+[65] "frequencyBodyGyroMagMean" 
+Mean value of the magnitude of these three-dimensional body angular velocity signals derived in frequency
+
+[66] "frequencyBodyGyroMagStd" 
+Standard deviation of the magnitude of these three-dimensional body angular velocity signals derived in frequency
+
+[67] "frequencyBodyGyroJerkMagMean" 
+Mean value of the magnitude of these three-dimensional body angular velocity Jerk signals derived in frequency
+
+[68] "frequencyBodyGyroJerkMagStd" 
+Standard deviation of the magnitude of these three-dimensional body angular velocity Jerk signals derived in frequency
+
